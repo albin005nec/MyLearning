@@ -1,0 +1,1 @@
+How to setup enviroment using K8s--> https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
