@@ -1,1 +1,3 @@
-Starting my git
+Issue : How to fix git authentication error
+Solution - Go to gihub-->settings-->Developer-->generate classic token and choose the required privileges
+            and use this token as password in git.
